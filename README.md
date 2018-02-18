@@ -2,4 +2,6 @@
 
 A chrome extension designed to bring back the view images button.
 
-Based of my [Google Images Scraper](https://github.com/rushilsrivastava/image-scrapers).
+Based off my [Google Images Scraper](https://github.com/rushilsrivastava/image-scrapers).
+
+Get the extension [here](https://chrome.google.com/webstore/detail/google-images-view-images/hikeppiciojodlcjkooaccdlmidiioaf/).
