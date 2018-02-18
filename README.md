@@ -1,4 +1,4 @@
-# google-images-view-images
+# google-images-view-image
 
 A chrome extension designed to bring back the view images button.
 
